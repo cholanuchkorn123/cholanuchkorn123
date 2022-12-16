@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm cholanuch</h1>
 <h3 align="center">Fullstack developer</h3>
-<h3 align="center"><a href="https://cholanuch-k.netlify.app/#portfolio" > My resumewebsite </a>
+<h3 align="center"><a href="https://cholanuch-k.netlify.app/o" > My resumewebsite </a>
 </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
